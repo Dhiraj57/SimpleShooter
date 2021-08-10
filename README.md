@@ -2,7 +2,7 @@
 Third person shooter game built using unreal engine.
 
 
-Player movement.
+Player movement,
 Animation,
 Shooting,
 Health/Death,
